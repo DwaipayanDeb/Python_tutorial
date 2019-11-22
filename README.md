@@ -5,7 +5,7 @@
 **The following worhsheets gives an hands on training on introductory Python language. For extracting best, it should be studied  maintaining the sequence given below. Most of the Commands/Codes are collected from Internet and different books on this subject.**
 ---
 ## Lectures 
-**Lecture-0: (File: lecture_overview.pdf)**
+** Lecture-0: (File: lecture_overview.pdf) **
 **Lecture-1: (Commands (File: hello.ipynb)**
 **Lecture-2: (File: arithmatic.ipynb)**
 **Lecture-3: (File: container.ipynb)**
