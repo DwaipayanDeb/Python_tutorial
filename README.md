@@ -1,12 +1,12 @@
-#### Read this README file before taking this course on Python.
+#### Read this README file before taking this course on Python
 ---
-## 'Tenets of Python Programming' 
+## Tenets of Python Programming
 
-**(Version: 0.0.1)**
+**(Version: 0.1)**
 ---
-**The following worhsheets gives an hands on training on introductory Python language. For extracting best, it should be studied  maintaining the sequence given below. Most of the Commands/Codes are collected from Internet and different books on this subject.**
+***The following worhsheets gives a hands-on training on basic Python language. To extract the best, it should be studied maintaining the  sequence given below. Most of the Commands/Codes are collected from Internet and different books on this subject.***
 ---
-## Lectures 
+## Lectures:- 
 **Lecture-0: File: lecture_overview.pdf**
 
 **Lecture-1: File: hello.ipynb**
@@ -29,7 +29,7 @@
 
 **Lecture-10: File: matplotlib.ipynb**
 
-## More worksheet will be added in time.....KEEP VISITING US...
+## More worksheet will be added in time.....Keep visting us...
 ---
-## Contributor: Surajit Sen Contact: <<ssen55@yahoo.com>>
+## Contributor: Surajit Sen, Contact: <<ssen55@yahoo.com>>
 ---
