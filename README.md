@@ -29,7 +29,7 @@
 
 **Lecture-10: File: matplotlib.ipynb**
 
-## More worksheet will be added in time.....Keep visting us...
+### More worksheet will be added in time.....Keep visting us...
 ---
-## Contributor: Surajit Sen, Contact: <<ssen55@yahoo.com>>
+#### Contributor: Surajit Sen, Contact: <ssen55@yahoo.com>
 ---
