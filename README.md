@@ -29,9 +29,9 @@
 
 **Lecture-10: File: matplotlib.ipynb**
 
-### More worksheet will be added in time.....Keep visting us...
+##### (Disclaimer: Most of the Commands/Codes are collected from Internet and different books on this subject.)
 ---
- #### Most of the Commands/Codes are collected from Internet and different books on this subject.
+### More worksheet will be added in time.....Keep visiting us...
 ---
 #### Course creator: Surajit Sen, Contact: <ssen55@yahoo.com>
 ---
