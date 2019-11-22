@@ -4,7 +4,7 @@
 
 **(Version: 0.1)**
 ---
-***The following worhsheets gives a hands-on training on basic Python language. To extract the best, it should be studied maintaining the  sequence given below. Most of the Commands/Codes are collected from Internet and different books on this subject.***
+***The following worksheets gives a hands-on training on basic Python language. For maximum benefit, it should be studied following the sequence given below.***
 ---
 ## Lectures:- 
 **Lecture-0: File: lecture_overview.pdf**
@@ -30,6 +30,8 @@
 **Lecture-10: File: matplotlib.ipynb**
 
 ### More worksheet will be added in time.....Keep visting us...
+---
+ #### Most of the Commands/Codes are collected from Internet and different books on this subject.
 ---
 #### Course creator: Surajit Sen, Contact: <ssen55@yahoo.com>
 ---
