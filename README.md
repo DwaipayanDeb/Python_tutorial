@@ -31,5 +31,5 @@
 
 ### More worksheet will be added in time.....Keep visting us...
 ---
-#### Contributor: Surajit Sen, Contact: <ssen55@yahoo.com>
+#### Course creator: Surajit Sen, Contact: <ssen55@yahoo.com>
 ---
