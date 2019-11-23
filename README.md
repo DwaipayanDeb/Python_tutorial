@@ -31,6 +31,22 @@
 
 **Lecture-12: File: matplotlib.ipynb**
 
+**Lecture-13: File: problem_sem1.ipynb**
+
+**Lecture-13: File: problem_sem2.ipynb**
+
+**Lecture-13: File: problem_sem3.ipynb**
+
+**Lecture-13: File: problem_sem4.ipynb**
+
+**Lecture-13: File: problem_sem5.ipynb**
+
+**Lecture-13: File: problem_sem6.ipynb**
+
+**Lecture-13: File: intro_QC.ipynb** (To be added as different set)
+
+**Lecture-13: File: ibm_Q.ipynb** (To be added as different set)
+
 ##### (Disclaimer: Most of the Commands/Codes are collected from Internet and different books on this subject.)
 ---
 ### More worksheet will be added in time.....Keep visiting us...
