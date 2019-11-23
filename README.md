@@ -4,7 +4,7 @@
 
 **(Version: 0.1)**
 --. 
-***The following course gives a hands-on training on basic Python language particularly for the Python enthusiasts as well as the Undergraduate (UG) physics students. The whole course is designed for Self-Study using a set of JUPYTER WORKSHEET. For maximum benefit, it should be studied following the sequence given below.***
+***The following course gives a hands-on training on basic Python language particularly for the Python enthusiasts as well as the Undergraduate (UG) physics students. The whole course is designed for Self-Study using a set of 'Jupyter Worksheet'. For maximum benefit, it should be studied following the sequence given below.***
 ---
 ## Lectures:- 
 **Lecture-1: File: lecture_motivation.pdf**
