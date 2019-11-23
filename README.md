@@ -1,6 +1,6 @@
 #### Read this README file before taking this course on Python
 ---
-## Tenets of Python Programming
+## Introductory Course on Python in Physics
 
 **(Version: 0.1)**
 ---
