@@ -4,7 +4,7 @@
 
 **(Version: 0.1)**
 ---
-***The following worksheets give a hands-on training on basic Python language particularly for the Undergraduate (UG) physics students. For maximum benefit, it should be studied following the sequence given below.***
+***The following worksheets give a hands-on training on basic Python language particularly for the Undergraduate (UG) physics students. The course is designed using JUPYTER WORKSHEET for self Study for Self-Stufy with For maximum benefit, it should be studied following the sequence given below.***
 ---
 ## Lectures:- 
 **Lecture-1: File: lecture_motivation.pdf**
