@@ -9,7 +9,7 @@
 ## Lectures:- 
 **Lecture-1: File: lecture_motivation.pdf**
 
-**Lecture-2: File: lecture_overview.pdf**
+**Lecture-2: File: course_overview.pdf**
 
 **Lecture-3: File: hello.ipynb**
 
