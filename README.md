@@ -1,4 +1,4 @@
-#### Read this README file before taking this course on Python
+#### Please read this README file before taking this course...
 ---
 ## Introductory Course on Python in Physics
 
