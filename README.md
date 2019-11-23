@@ -3,7 +3,7 @@
 ## Introductory Course on Python in Physics
 
 **(Version: 0.1)**
---. 
+---
 ***The following course gives a hands-on training on basic Python language for the Undergraduate (UG) physics students and also for the  Python enthusiasts. The whole course is designed for self-study using a set of 'Jupyter Worksheet'. For maximum benefit, it should be studied following the sequence given below.***
 ---
 ## Lectures:- 
