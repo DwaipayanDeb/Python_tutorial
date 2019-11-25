@@ -18,13 +18,13 @@
 
 **Lecture-5: File: [Container](https://github.com/sen-hub/pythontutorial/blob/master/container.ipynb) (Jupyter Worksheet)**
 
-**Lecture-6: File: [Control Statement-I](https://github.com/sen-hub/pythontutorial/blob/master/else_if.ipynb) (Jupyter Worksheet)**
+**Lecture-6: File: [Control Statement-I](https://github.com/sen-hub/pythontutorial/blob/master/elseif.ipynb) (Jupyter Worksheet)**
 
 **Lecture-7: File: [Control Statement-II](https://github.com/sen-hub/pythontutorial/blob/master/while_loop.ipynb) (Jupyter Worksheet)**
 
 **Lecture-8: File: [Control Statement-III](https://github.com/sen-hub/pythontutorial/blob/master/for_loop.ipynb) (Jupyter Worksheet)**
 
-**Lecture-9: File: [Sympy Algebra](https://github.com/sen-hub/pythontutorial/blob/master/sympy_algebra.ipynb) (Jupyter Worksheet)**
+**Lecture-9: File: [Sympy Algebra](https://github.com/sen-hub/pythontutorial/blob/master/sympy_algabra.ipynb) (Jupyter Worksheet)**
 
 **Lecture-10: File: [Sympy Matrix](https://github.com/sen-hub/pythontutorial/blob/master/sympy_matrix.ipynb) (Jupyter Worksheet)**
 
