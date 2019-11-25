@@ -7,7 +7,10 @@
 ***The following course gives a hands-on training on basic Python language for the Undergraduate (UG) physics students and also for the  Python enthusiasts. The whole course is designed for self-study using a set of 'Jupyter Worksheet'. For maximum benefit, it should be studied following the sequence given below.***
 ---
 ## Lectures:- 
-**Lecture-1: File: [!Motivation](https://github.com/sen-hub/pythontutorial/blob/master/"lecture_motivation.pdf") (PDF File)**
+
+**Lecture-0: File: [Motivation]<a taget="_blank" title="hello" href="https://github.com/sen-hub/pythontutorial/blob/master/lecture_motivation.pdf/">my site</a>
+
+**Lecture-1: File: [Motivation](https://github.com/sen-hub/pythontutorial/blob/master/lecture_motivation.pdf/) (PDF File)**
 
 **Lecture-2: File: [Course Overview](https://github.com/sen-hub/pythontutorial/blob/master/lecture_overview.pdf) (PDF File)** 
 
