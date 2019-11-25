@@ -47,7 +47,7 @@
 
 **Lecture-21: File: ibm_Q.ipynb** (To be added as different set)
 
-**Trial Link <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> **
+**[This is an absolute link to a nested file](https://notebooks.azure.com/anon-jhu4eq/libraries/ReadmeLinkingTest/html/testfolder/testfile.txt)**
 
 ##### (Disclaimer: Most of the Commands/Codes are collected from Internet and different books on this subject.)
 ---
