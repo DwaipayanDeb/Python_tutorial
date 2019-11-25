@@ -7,9 +7,9 @@
 ***The following course gives a hands-on training on basic Python language for the Undergraduate (UG) physics students and also for the  Python enthusiasts. The whole course is designed for self-study using a set of 'Jupyter Worksheet'. For maximum benefit, it should be studied following the sequence given below.***
 ---
 ## Lectures:- 
-**Lecture-1: File: [lecture_motivation.pdf](https://github.com/sen-hub/pythontutorial/blob/master/lecture_motivation.pdf)**
+**Lecture-1: File: [lecture_motivation](https://github.com/sen-hub/pythontutorial/blob/master/lecture_motivation.pdf) (PDF File)**
 
-**Lecture-2: File: course_overview.pdf**
+**Lecture-2: File: [course_overview](https://github.com/sen-hub/pythontutorial/blob/master/lecture_overview.pdf) (PDF File)** 
 
 **Lecture-3: File: hello.ipynb**
 
@@ -46,8 +46,6 @@
 **Lecture-20: File: intro_QC.ipynb** (To be added as different set)
 
 **Lecture-21: File: ibm_Q.ipynb** (To be added as different set)
-
-**[This is an absolute link to a nested file](https://notebooks.azure.com/anon-jhu4eq/libraries/ReadmeLinkingTest/html/testfolder/testfile.txt)**
 
 ##### (Disclaimer: Most of the Commands/Codes are collected from Internet and different books on this subject.)
 ---
