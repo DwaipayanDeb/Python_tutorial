@@ -47,6 +47,8 @@
 
 **Lecture-21: File: ibm_Q.ipynb** (To be added as different set)
 
+**Trial Link <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> **
+
 ##### (Disclaimer: Most of the Commands/Codes are collected from Internet and different books on this subject.)
 ---
 ### More worksheet will be added in time.....Keep visiting us...
