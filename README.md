@@ -10,7 +10,7 @@
 
 **Lecture-0: File: [Motivation]<a taget="_blank" title="hello" href="https://github.com/sen-hub/pythontutorial/blob/master/lecture_motivation.pdf/">my site</a>
 
-**Lecture-1: File: [Motivation](https://github.com/sen-hub/pythontutorial/blob/master/lecture_motivation.pdf/) (PDF File)**
+**Lecture-1: File: [Motivation](a taget="_blank" https://github.com/sen-hub/pythontutorial/blob/master/lecture_motivation.pdf/) (PDF File)**
 
 **Lecture-2: File: [Course Overview](https://github.com/sen-hub/pythontutorial/blob/master/lecture_overview.pdf) (PDF File)** 
 
