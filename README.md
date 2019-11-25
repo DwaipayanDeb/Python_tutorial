@@ -32,17 +32,19 @@
 
 **Lecture-12: File: [Matplotlib](https://github.com/sen-hub/pythontutorial/blob/master/matplotlib.ipynb) (Jupyter Worksheet)**
 
-**Lecture-14: File: [Problem Set I](https://github.com/sen-hub/pythontutorial/blob/master/problem_set1.ipynb) (Jupyter Worksheet)**
+**Lecture-14: File: [Problem Set I](https://github.com/sen-hub/pythontutorial/blob/master/problem_set1.ipynb) (To be added)**
 
-**Lecture-15: File: [Problem Set II](https://github.com/sen-hub/pythontutorial/blob/master/problem_set2.ipynb) (Jupyter Worksheet)**
+**Lecture-15: File: [Problem Set II](https://github.com/sen-hub/pythontutorial/blob/master/problem_set2.ipynb) (To be added)**
 
-**Lecture-16: File: [Problem Set III](https://github.com/sen-hub/pythontutorial/blob/master/problem_set3.ipynb) (Jupyter Worksheet)**
+**Lecture-16: File: [Problem Set III](https://github.com/sen-hub/pythontutorial/blob/master/problem_set3.ipynb) (To be added)**
 
-**Lecture-17: File: [Problem Set IV](https://github.com/sen-hub/pythontutorial/blob/master/problem_set4.ipynb) (Jupyter Worksheet)**
+**Lecture-17: File: [Problem Set IV](https://github.com/sen-hub/pythontutorial/blob/master/problem_set4.ipynb) (To be added)**
 
-**Lecture-20: File: [Introduction to Quantum Computer](https://github.com/sen-hub/pythontutorial/blob/master/intro_qc.pdf) (To be added later)**
+**Lecture-18: File: [Problem Set V](https://github.com/sen-hub/pythontutorial/blob/master/problem_set5.ipynb) (To be added)**
 
-**Lecture-21: File: [Introduction to QISKIT - IBM Online QC](https://github.com/sen-hub/pythontutorial/blob/master/intro_qiskit.pdf) (To be added later)**
+**Lecture-19: File: [Introduction to Quantum Computer](https://github.com/sen-hub/pythontutorial/blob/master/intro_qc.pdf) (To be added)**
+
+**Lecture-20: File: [Introduction to QISKIT - IBM Online QC](https://github.com/sen-hub/pythontutorial/blob/master/intro_qiskit.pdf) (To be added)**
 
 ##### (Disclaimer: Most of the codes are collected from Internet and different books on this subject.)
 ---
