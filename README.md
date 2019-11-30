@@ -12,17 +12,17 @@
 
 **Lecture-2: File: [Course Overview](https://github.com/sen-hub/pythontutorial/blob/master/lecture_overview.pdf) (PDF File)** 
 
-**Lecture-3: File: [Hello Programme](https://github.com/sen-hub/pythontutorial/blob/master/hello.ipynb) (Jupyter Worksheet)** 
+**Lecture-3: File: [Basic Hello Programme](https://github.com/sen-hub/pythontutorial/blob/master/hello.ipynb) (Jupyter Worksheet)** 
 
-**Lecture-4: File: [Arithmatic](https://github.com/sen-hub/pythontutorial/blob/master/arithmatic.ipynb) (Jupyter Worksheet)**
+**Lecture-4: File: [Algebraic Operation](https://github.com/sen-hub/pythontutorial/blob/master/arithmatic.ipynb) (Jupyter Worksheet)**
 
 **Lecture-5: File: [Container](https://github.com/sen-hub/pythontutorial/blob/master/container.ipynb) (Jupyter Worksheet)**
 
-**Lecture-6: File: [Control Statement-I](https://github.com/sen-hub/pythontutorial/blob/master/elseif.ipynb) (Jupyter Worksheet)**
+**Lecture-6: File: [Control Statement-I] (If, Else)(https://github.com/sen-hub/pythontutorial/blob/master/elseif.ipynb) (Jupyter Worksheet)**
 
-**Lecture-7: File: [Control Statement-II](https://github.com/sen-hub/pythontutorial/blob/master/while_loop.ipynb) (Jupyter Worksheet)**
+**Lecture-7: File: [Control Statement-II] (While Loop)(https://github.com/sen-hub/pythontutorial/blob/master/while_loop.ipynb) (Jupyter Worksheet)**
 
-**Lecture-8: File: [Control Statement-III](https://github.com/sen-hub/pythontutorial/blob/master/for_loop.ipynb) (Jupyter Worksheet)**
+**Lecture-8: File: [Control Statement-III] (For Loop) (https://github.com/sen-hub/pythontutorial/blob/master/for_loop.ipynb) (Jupyter Worksheet)**
 
 **Lecture-9: File: [Sympy Algebra](https://github.com/sen-hub/pythontutorial/blob/master/sympy_algabra.ipynb) (Jupyter Worksheet)**
 
