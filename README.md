@@ -18,7 +18,7 @@
 
 **Lecture-5: File: [Container](https://github.com/sen-hub/pythontutorial/blob/master/container.ipynb) (Jupyter Worksheet)**
 
-**Lecture-6: File: [Control Statement-I (If, Else)] (https://github.com/sen-hub/pythontutorial/blob/master/elseif.ipynb) (Jupyter Worksheet)**
+**Lecture-6: File: [Control Statement-I (If, Else)](https://github.com/sen-hub/pythontutorial/blob/master/elseif.ipynb) (Jupyter Worksheet)**
 
 **Lecture-7: File: [Control Statement-II (While Loop)](https://github.com/sen-hub/pythontutorial/blob/master/while_loop.ipynb) (Jupyter Worksheet)**
 
